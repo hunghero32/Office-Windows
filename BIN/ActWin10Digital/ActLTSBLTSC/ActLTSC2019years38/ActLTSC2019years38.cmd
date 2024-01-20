@@ -1,7 +1,7 @@
 ﻿CHCP 1258 >nul 2>&1
 CHCP 65001 >nul 2>&1
 @echo off
-title Script Kích Hoạt Bản Quyền Windows 10 Enterprise LTSC 2019 Tới Năm 2038 - Copyright (C) HungVN by TDZ Group.
+title Script Kích Hoạt Bản Quyền Windows 10 Enterprise LTSC 2019 Tới Năm 2038 - Copyright (C) All rights reserved.
 mode con cols=110 lines=2
 color f0
 
@@ -249,11 +249,11 @@ GOTO MAINMENU
 :Exit
 echo.
 echo ================================================
-echo [  Cam on ban da su dung Activate TDZ Tools!   ]
-echo [     Thanks for using Activate TDZ Tools!     ]
+echo [  Cam on ban da su dung Activate AIO Tools!   ]
+echo [     Thanks for using Activate AIO Tools!     ]
 echo ================================================
 timeout 3
-start https://www.facebook.com/hunghero32
+start https://www.facebook.com/HoiQuanCongNgheTinHoc
 exit
 ::===============================================================================================================
 :OfficeActivate

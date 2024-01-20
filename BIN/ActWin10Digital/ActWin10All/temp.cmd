@@ -6,7 +6,7 @@ CHCP 65001
 :: For unattended mode, run the script with /u parameter.
 
 cls
-title Script Kích Hoạt Bản Quyền Số Windows 10 Vĩnh Viễn - Copyright (C) HungVN by TDZ Group.
+title Script Kích Hoạt Bản Quyền Số Windows 10 Vĩnh Viễn - Copyright (C) All rights reserved.
 set Unattended=
 set _args=
 set _elev=

@@ -19,7 +19,7 @@ exit
 
 color f0
 mode con cols=98 lines=30
-title Script Kích Hoạt Bản Quyền Số Windows 10 Enterprise LTSB 2016 - Copyright (C) HungVN by TDZ Group.
+title Script Kích Hoạt Bản Quyền Số Windows 10 Enterprise LTSB 2016 - Copyright (C) All rights reserved.
 setlocal EnableExtensions EnableDelayedExpansion
 pushd "%~dp0"
 cd /d "%~dp0"
@@ -404,7 +404,8 @@ goto:MAINMENU
 
 :======================================================================================================================================================
 :CheckForUpdates
-start https://www.facebook.com/hunghero32
+start https://www.facebook.com/HoiQuanCongNgheTinHoc/posts/971960172972652
+goto:MAINMENU
 
 :======================================================================================================================================================
 :Exit

@@ -1,6 +1,6 @@
 ﻿chcp 65001 >nul
 @echo off
-Title ACTIVATE WINDOWS 10 LTSB/LTSC - Copyright (C) HungVN by TDZ Group. All rights reserved.
+Title ACTIVATE WINDOWS 10 LTSB/LTSC - Copyright (C) Dominic Savio. All rights reserved.
 mode con: cols=123 lines=35
 chcp 65001 >nul
 color f0
@@ -53,9 +53,9 @@ exit
 :exit
 @echo.
 @echo ================================================
-@echo [  Cam on ban da su dung Activate TDZ Tools!   ]
-@echo [     Thanks for using Activate TDZ Tools!     ]
+@echo [  Cam on ban da su dung Activate AIO Tools!   ]
+@echo [     Thanks for using Activate AIO Tools!     ]
 @echo ================================================
 timeout 3
-start https://www.facebook.com/hunghero32
+start https://www.facebook.com/HoiQuanCongNgheTinHoc
 exit

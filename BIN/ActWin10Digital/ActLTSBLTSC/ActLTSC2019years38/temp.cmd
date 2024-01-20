@@ -3,7 +3,7 @@ CHCP 65001
 @setlocal DisableDelayedExpansion
 @echo off
 cls
-title Script Kích Hoạt Bản Quyền Windows 10 Enterprise LTSC 2019 Tới Năm 2038 - Copyright (C) HungVN by TDZ Group.
+title Script Kích Hoạt Bản Quyền Windows 10 Enterprise LTSC 2019 Tới Năm 2038 - Copyright (C) All rights reserved.
 set Unattended=
 set _args=
 set _elev=

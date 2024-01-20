@@ -416,7 +416,7 @@ echo.
 echo.
 echo.               =============================================================
 echo.                                                                   
-echo.               Thanks to HungVN, mephistooo2, WindowsAddict, Savio and rpo.
+echo.               Thanks to s1ave77, mephistooo2, WindowsAddict, Savio and rpo.
 echo.                                                                    
 echo.               =============================================================
 echo.
